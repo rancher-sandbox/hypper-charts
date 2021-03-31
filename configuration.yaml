@@ -1,11 +1,11 @@
 template: staging
 
 sync:
-- url: https://github.com/rancher/charts.git
-  branch: dev-v2.5-source
+- url: https://github.com/rancher-sandbox/hypper-charts.git
+  branch: main
 validate:
-- url: https://github.com/rancher/charts.git
-  branch: release-v2.5
+- url: https://github.com/rancher-sandbox/hypper-charts.git
+  branch: main
   dropReleaseCandidates: true
 helmRepo:
-  cname: charts.rancher.io
+  cname: charts.hypper.io
