@@ -1,9 +1,9 @@
 annotations:
   catalog.cattle.io/certified: rancher
   catalog.cattle.io/display-name: vSphere CSI
-  catalog.cattle.io/namespace: kube-system
+  hypper.cattle.io/namespace: kube-system
   catalog.cattle.io/os: linux
-  catalog.cattle.io/release-name: vsphere-csi
+  hypper.cattle.io/release-name: vsphere-csi
 apiVersion: v1
 appVersion: 2.1.0
 description: vSphere Cloud Storage Interface (CSI)

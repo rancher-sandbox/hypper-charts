@@ -2,10 +2,10 @@ annotations:
   catalog.cattle.io/auto-install: rancher-kiali-server-crd=1.29.000-rc00
   catalog.cattle.io/certified: rancher
   catalog.cattle.io/display-name: Istio
-  catalog.cattle.io/namespace: istio-system
+  hypper.cattle.io/namespace: istio-system
   catalog.cattle.io/os: linux
   catalog.cattle.io/provides-gvr: networking.istio.io.virtualservice/v1beta1
-  catalog.cattle.io/release-name: rancher-istio
+  hypper.cattle.io/release-name: rancher-istio
   catalog.cattle.io/requests-cpu: 710m
   catalog.cattle.io/requests-memory: 2314Mi
   catalog.cattle.io/ui-component: istio

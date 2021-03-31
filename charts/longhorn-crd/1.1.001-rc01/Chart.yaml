@@ -1,8 +1,8 @@
 annotations:
   catalog.cattle.io/certified: rancher
   catalog.cattle.io/hidden: "true"
-  catalog.cattle.io/namespace: longhorn-system
-  catalog.cattle.io/release-name: longhorn-crd
+  hypper.cattle.io/namespace: longhorn-system
+  hypper.cattle.io/release-name: longhorn-crd
 apiVersion: v1
 description: Installs the CRDs for longhorn.
 name: longhorn-crd

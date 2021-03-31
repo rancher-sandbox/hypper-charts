@@ -8,9 +8,9 @@ annotations:
   catalog.cattle.io/auto-install: rancher-monitoring-crd=match
   catalog.cattle.io/certified: rancher
   catalog.cattle.io/display-name: Monitoring
-  catalog.cattle.io/namespace: cattle-monitoring-system
+  hypper.cattle.io/namespace: cattle-monitoring-system
   catalog.cattle.io/provides-gvr: monitoring.coreos.com.prometheus/v1
-  catalog.cattle.io/release-name: rancher-monitoring
+  hypper.cattle.io/release-name: rancher-monitoring
   catalog.cattle.io/requests-cpu: 4500m
   catalog.cattle.io/requests-memory: 4000Mi
   catalog.cattle.io/ui-component: monitoring
