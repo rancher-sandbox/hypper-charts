@@ -1,13 +1,5 @@
-pull-scripts:
-	./scripts/pull-scripts
 
-release:
-	./scripts/release-assets
-
-TARGETS := prepare patch charts clean sync validate rebase docs
-
-$(TARGETS):
-	@ls ./bin/charts-build-scripts 1>/dev/null 2>/dev/null || ./scripts/pull-scripts
-	./bin/charts-build-scripts $@
-
-.PHONY: $(TARGETS)
+.PHONY: build
+build:
+	@echo $(dir $(shell find charts -maxdepth 5 -type f -name 'Chart.yaml')) | sort | uniq | xargs helm package -d released
+	helm repo index released
