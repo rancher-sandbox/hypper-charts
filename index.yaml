@@ -15,7 +15,7 @@ entries:
     created: "2021-03-18T19:39:38.695305781Z"
     description: Fleet Manager - GitOps at Scale
     digest: 443c4a6b34b021406aed20df13848926328afa4790a817c9ada07dc47a8b8e71
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - assets/fleet/fleet-0.3.500-rc01.tgz
@@ -34,7 +34,7 @@ entries:
     created: "2021-03-04T09:47:44.975285-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 277079329c521f3902a1d350526faa155b96760268841855b066a79c066e1fda
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc08.tgz
@@ -53,7 +53,7 @@ entries:
     created: "2021-03-04T09:47:44.974668-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 7d9eb26b9a52d271fbb40a4bd5d0771bbef7b7b4e62202db83be9aef6df1b020
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc07.tgz
@@ -72,7 +72,7 @@ entries:
     created: "2021-03-04T09:47:44.974039-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 687574de3226ffeb9f1e0aa113221b1079b8ce4b7388deb9f4db21adf910cd7a
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc06.tgz
@@ -91,7 +91,7 @@ entries:
     created: "2021-03-04T09:47:44.973472-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: cc93d58b20fe2ce8626f93af8a534eb80ee2c9001f1e864981b72c1766cd4ea3
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc05.tgz
@@ -110,7 +110,7 @@ entries:
     created: "2021-03-04T09:47:44.972882-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 118b165bf97d80b203e46b7899f619060e95b73a4e86be39230b6cfa24f37527
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc04.tgz
@@ -129,7 +129,7 @@ entries:
     created: "2021-03-04T09:47:44.972313-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 2c77e45b0d5c39ffbc45889ee92627fc97360fd002b01cf766efc963933d0734
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc03.tgz
@@ -148,7 +148,7 @@ entries:
     created: "2021-03-04T09:47:44.971747-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: fb076be2e7e9d34b6fbb7cf6b975ee8dea69d118a91dbef29c77e3310718843b
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.400-rc00.tgz
@@ -167,7 +167,7 @@ entries:
     created: "2021-01-15T00:11:30.442452-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 466158346d34e38bc22d1df190b8e8d031da76e6b189b104c3db439c84cefa57
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.300.tgz
@@ -186,7 +186,7 @@ entries:
     created: "2021-01-15T00:11:30.442021-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 92c54b647c650213ed878a3aa37a1b121d773ea3df107eef1cb80ffba4fdd4a8
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.300-rc1.tgz
@@ -205,7 +205,7 @@ entries:
     created: "2021-01-15T00:11:30.441482-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 13435d391c5cbc965b57ef20bc8fcf2d986ff7a3e931b69ee692ab9e1f182cee
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.200.tgz
@@ -224,7 +224,7 @@ entries:
     created: "2021-01-15T00:11:30.441061-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 6bacaf33f64564316e3055a64e2be835e59db11c0e972bf724129f084e2347fe
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.200-rc7.tgz
@@ -243,7 +243,7 @@ entries:
     created: "2021-01-15T00:11:30.440604-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: a5ed0efb4922ac2095d632c6675bd0c15d12940cf3993eb744259154a7946ee4
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.200-rc6.tgz
@@ -262,7 +262,7 @@ entries:
     created: "2021-01-15T00:11:30.440153-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 8532b8f9ea6cc1a58e75f12f500c50f1e504e2f1cd17dbea5302067f1e97fd8d
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.200-rc5.tgz
@@ -281,7 +281,7 @@ entries:
     created: "2021-01-15T00:11:30.435867-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 2fe3aa2739e02cc80ab57ab538f553caab0c68e4d42c36c878418978378704ee
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.100.tgz
@@ -300,7 +300,7 @@ entries:
     created: "2021-01-15T00:11:30.439622-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: a4a06fb9cebe9efd606bede697cb3153ac90a525cea85d5669bebfec2bd46b60
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.2-rc500.tgz
@@ -319,7 +319,7 @@ entries:
     created: "2021-01-15T00:11:30.439032-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 2c8db55082443d3001ee73001f2998709eb626d068ea1d01a9a2a876ab1fd6d5
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.2-rc400.tgz
@@ -338,7 +338,7 @@ entries:
     created: "2021-01-15T00:11:30.438375-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 4cb7dc66d8fa56e7c72482a711690c4eec6df2b6039325b7573ff5832db6e2f1
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.2-rc300.tgz
@@ -357,7 +357,7 @@ entries:
     created: "2021-01-15T00:11:30.436873-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 8eb35016316c813edec5b6a23e4e1b2ac977f70422abdaa17b27f04ef583b4a2
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.2-rc200.tgz
@@ -376,7 +376,7 @@ entries:
     created: "2021-01-15T00:11:30.436381-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 2d931594dcc850c2ceddbc670c26ec624275471e827aea89c911a9c69b63680c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.2-rc100.tgz
@@ -395,7 +395,7 @@ entries:
     created: "2021-01-15T00:11:30.43539-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 8e2d0197e5351976855ab2a353624f83aae1dd20d111c640577c718dbc6e8d3d
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.1-rc200.tgz
@@ -414,7 +414,7 @@ entries:
     created: "2021-01-15T00:11:30.43486-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 2ebf3211667f09636fe3ddedcf3f16527911039ad034234b3096a2d22648f08c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.000.tgz
@@ -433,7 +433,7 @@ entries:
     created: "2021-01-15T00:11:30.434357-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 8c0107095c9bd5fdaf1af65269cc3212e1d3b3cae7fd60310e33ed4f45f60c3e
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.0-rc300.tgz
@@ -452,7 +452,7 @@ entries:
     created: "2021-01-15T00:11:30.433883-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 4fff27a9b7181abc19c19ed7c976001fd334bc398451c4f8e06f5175a5449b13
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.0-rc200.tgz
@@ -471,7 +471,7 @@ entries:
     created: "2021-01-15T00:11:30.433435-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: 9285c78e83af3aa9c41f78ccda82a629e1e5d0491657c928c70e35cdf398a4a1
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.0-rc100.tgz
@@ -490,7 +490,7 @@ entries:
     created: "2021-01-15T00:11:30.432981-08:00"
     description: Fleet Manager - GitOps at Scale
     digest: daecd0f635b0d5e9cbe1661a0cbf9fa863559067380c018ee647c0541f036f54
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet
     urls:
     - released/assets/fleet/fleet-0.3.0-beta600.tgz
@@ -507,7 +507,7 @@ entries:
     created: "2021-03-18T19:39:38.696249674Z"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 9abb1ab308acf5a714846b4fbf559d71f0914959593d89e58a82eb134a185a4e
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - assets/fleet-agent/fleet-agent-0.3.500-rc01.tgz
@@ -523,7 +523,7 @@ entries:
     created: "2021-03-04T09:47:44.979264-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 92c389d9d8be695fb01d74e9d5522e4a594fe08b1631bf80433a43cfafc12130
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc08.tgz
@@ -539,7 +539,7 @@ entries:
     created: "2021-03-04T09:47:44.978729-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 0309e8373110bc1bccf7822846cb39bfb3090079516fb597fc1bfd315d793bd6
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc07.tgz
@@ -555,7 +555,7 @@ entries:
     created: "2021-03-04T09:47:44.978306-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 3ea72c1023795f9f0d5044645ee0daf17728e7c2dfa8e09bad134f068d33e0bd
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc06.tgz
@@ -571,7 +571,7 @@ entries:
     created: "2021-03-04T09:47:44.97789-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 0ddcf88f7f969a054e665547afc3d051b6f7e889bdfa9f6117d1b54424bc0121
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc05.tgz
@@ -587,7 +587,7 @@ entries:
     created: "2021-03-04T09:47:44.976796-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 361ea8b3e2881fba58c75b4fa8f7a3dcd39e935cf53ffda8d16eae03b24b3e29
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc04.tgz
@@ -603,7 +603,7 @@ entries:
     created: "2021-03-04T09:47:44.976184-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: a8b5d0b5f1fa9fca85dcb543141dfc2b69d9f44e6a3f0e985e5d0d89c80abb0b
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc03.tgz
@@ -619,7 +619,7 @@ entries:
     created: "2021-03-04T09:47:44.975734-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 4f1e3b1be448bf6a3ce7519dbf4105469ba9ea60432f64ed7717269b4c1db495
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.400-rc00.tgz
@@ -635,7 +635,7 @@ entries:
     created: "2021-01-15T00:11:30.450242-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: c156f47b7093403a9567dd6607150dcec3d23bbc9089f24826edd255da3de163
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.300.tgz
@@ -651,7 +651,7 @@ entries:
     created: "2021-01-15T00:11:30.449607-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 8ba8e519ae4e2597ce1a886fc236a6ba17884c26ee500f099ba25881fe07c472
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.300-rc1.tgz
@@ -667,7 +667,7 @@ entries:
     created: "2021-01-15T00:11:30.449316-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: d83092027ee970d35edf853bfebe76621e65e98a6451a984018ad50343de7662
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.200.tgz
@@ -683,7 +683,7 @@ entries:
     created: "2021-01-15T00:11:30.449024-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 64119f4e2708a02f6a7d196289154158a3069078eeb2ff6c4d610ff75553714d
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.200-rc7.tgz
@@ -699,7 +699,7 @@ entries:
     created: "2021-01-15T00:11:30.448731-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: e4d4cec1d4f3a6cb6de231398213740ab6a63221ad8bb39b92ff359ab203c717
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.200-rc6.tgz
@@ -715,7 +715,7 @@ entries:
     created: "2021-01-15T00:11:30.448438-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 901d1ac62ef11449a3a4322be4c361031901491457b285ea7ae50eb86b294c4d
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.200-rc5.tgz
@@ -731,7 +731,7 @@ entries:
     created: "2021-01-15T00:11:30.44469-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 93e1c4ab4accfe23e9367bf0db876c469fa33df306d0c375c4f52cae384a12bd
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.100.tgz
@@ -747,7 +747,7 @@ entries:
     created: "2021-01-15T00:11:30.448126-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 89a9c660a7e734b92e355c9cef6bc5ed6ea686a531bd7fbcc9e79740f11ecf97
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.2-rc500.tgz
@@ -763,7 +763,7 @@ entries:
     created: "2021-01-15T00:11:30.447616-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 54b08cdc2b3d82df5f200b7ce248df6fd76fcc6bca65566597277223b392694a
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.2-rc400.tgz
@@ -779,7 +779,7 @@ entries:
     created: "2021-01-15T00:11:30.446262-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 666b0fbd3cd2c66ec0876c4ab38179ff208ae30e6c1f624a9d86c63a94631c4f
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.2-rc300.tgz
@@ -795,7 +795,7 @@ entries:
     created: "2021-01-15T00:11:30.445918-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: aabe665aeebc1df39898d541af5584b5c30de7702822690d6a51fe719700974c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.2-rc200.tgz
@@ -811,7 +811,7 @@ entries:
     created: "2021-01-15T00:11:30.445594-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: ff1f16b5df2234bab11727a056fd1133266d224739a552827d0c2ba7cce13351
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.2-rc100.tgz
@@ -827,7 +827,7 @@ entries:
     created: "2021-01-15T00:11:30.444372-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 5710e0cd3a6d3c818ced59b6cf486579b5184aadac4dd8088fcac9fe5bb82588
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.1-rc200.tgz
@@ -843,7 +843,7 @@ entries:
     created: "2021-01-15T00:11:30.444055-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: ecc3783751af209842edc9e4687d01b2a355613b8232d993da9ad36c412ee351
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.000.tgz
@@ -859,7 +859,7 @@ entries:
     created: "2021-01-15T00:11:30.443739-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 03d3d03b8ae0b079bca9ef661b5e3468a40056fc921ccca1dd75174c5763de3c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.0-rc300.tgz
@@ -875,7 +875,7 @@ entries:
     created: "2021-01-15T00:11:30.443423-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 751ff49e3a02afa1300ef25a9b98399dfa7aad6f3e7598225e3902890dc6ff59
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.0-rc200.tgz
@@ -891,7 +891,7 @@ entries:
     created: "2021-01-15T00:11:30.443115-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: 2f72018aba77b61c891e7ee430086b91a1d822ac276b2a483eeee00a0e32ecd2
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.0-rc100.tgz
@@ -907,7 +907,7 @@ entries:
     created: "2021-01-15T00:11:30.442776-08:00"
     description: Fleet Manager Agent - GitOps at Scale
     digest: c698ce4c2749dfc4134d08ec4522af59022e3c17ebf1eabc8642a6de57d9a378
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-agent
     urls:
     - released/assets/fleet-agent/fleet-agent-0.3.0-beta600.tgz
@@ -924,7 +924,7 @@ entries:
     created: "2021-03-18T19:39:38.699012554Z"
     description: Fleet Manager CustomResourceDefinitions
     digest: 5a9971ba36b1565f22b4bababd5a5f862d2ca016a626283dfc79b30b8952f00c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - assets/fleet-crd/fleet-crd-0.3.500-rc01.tgz
@@ -940,7 +940,7 @@ entries:
     created: "2021-03-04T09:47:44.985982-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 08a71c3658b502abcac9967992089f06a2e7b945939173ab690109e31c879d78
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc08.tgz
@@ -956,7 +956,7 @@ entries:
     created: "2021-03-04T09:47:44.985281-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 8dabeedc21780455b4dbdbf963ca9a78a6d075163c61a282832424a552aefaa0
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc07.tgz
@@ -972,7 +972,7 @@ entries:
     created: "2021-03-04T09:47:44.984535-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 868f7b6e3caf84cc9d4c911ea03e3a01468ff3e9bb61764c890328e204f3afcc
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc06.tgz
@@ -988,7 +988,7 @@ entries:
     created: "2021-03-04T09:47:44.983697-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 43f1202bb4e902d87c991ce6f784eba76bf293cf306ad8f4f86befb1af926c63
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc05.tgz
@@ -1004,7 +1004,7 @@ entries:
     created: "2021-03-04T09:47:44.98195-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: f1f0b41f0361f1dafc601a6b2113dc7956241df6f31392be86c263fab3020141
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc04.tgz
@@ -1020,7 +1020,7 @@ entries:
     created: "2021-03-04T09:47:44.981021-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: c5c909ed053603f81ab58c8292f197fc86cd7abd4c52c1be7fe6fbd971cc9317
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc03.tgz
@@ -1036,7 +1036,7 @@ entries:
     created: "2021-03-04T09:47:44.980036-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: b4bdaa0cf4bd59c0629e22da5822d03f4fe3b588d79ce4f17c85067cb266ea12
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.400-rc00.tgz
@@ -1052,7 +1052,7 @@ entries:
     created: "2021-01-15T00:11:30.460625-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 9f7fd02d05da58beb8e5b10af0f0c22a5355532112f22d0f9150ed6f16e8d738
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.300.tgz
@@ -1068,7 +1068,7 @@ entries:
     created: "2021-01-15T00:11:30.460163-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 6c71754d009749043486ef5d51293781f0a140c23abc2e5e02b7b3d8a416e7a1
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.300-rc1.tgz
@@ -1084,7 +1084,7 @@ entries:
     created: "2021-01-15T00:11:30.459702-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 170663b6c1b877803057699633b386d17bd8dd29dabe83c60a19fa160572e649
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.200.tgz
@@ -1100,7 +1100,7 @@ entries:
     created: "2021-01-15T00:11:30.459237-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: e189bf956a74e6110d11ca8d333ed2eb8fca6bd38d9ad9f9aca85f50e9d13c44
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.200-rc7.tgz
@@ -1116,7 +1116,7 @@ entries:
     created: "2021-01-15T00:11:30.458738-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 910aa180969f7efa7707860d8003a8a8a4d64fa2943a9d35402fba0089ea53d1
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.200-rc6.tgz
@@ -1132,7 +1132,7 @@ entries:
     created: "2021-01-15T00:11:30.457713-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: f452552ccb8c6ebd3138f24ad70c83936a271a6f1a58c57c1e8f3d7bf2d9428b
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.200-rc5.tgz
@@ -1147,7 +1147,7 @@ entries:
     created: "2021-01-15T00:11:30.453908-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 54dba389fc02e3655fe4e47f05f149f4661440974f57e229d93c3828a6a23f95
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.100.tgz
@@ -1163,7 +1163,7 @@ entries:
     created: "2021-01-15T00:11:30.457197-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 1f759371cea4364f8a193815c3f1fdd3a518d6431d0ebf24a274f88ee2793c5c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.2-rc500.tgz
@@ -1178,7 +1178,7 @@ entries:
     created: "2021-01-15T00:11:30.456675-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 9b6e11bab284ac76e6e287b5912ecbebf1286ad23b703a90050167f9cb47965e
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.2-rc400.tgz
@@ -1193,7 +1193,7 @@ entries:
     created: "2021-01-15T00:11:30.456173-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 317da5d6523ceb6c34b82f5641ddb18dec5fc96ec841949b535979715463a692
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.2-rc300.tgz
@@ -1208,7 +1208,7 @@ entries:
     created: "2021-01-15T00:11:30.455531-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: e0ce08e0a55def30a2c95edfcfcdfe0ee9ac9f5dc8666ef53626e31cebe4fb4c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.2-rc200.tgz
@@ -1223,7 +1223,7 @@ entries:
     created: "2021-01-15T00:11:30.454478-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: b21e1d17af28400b9aa8960c7ee6d090266114b4811c9c5c507ecc1a662dc30a
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.2-rc100.tgz
@@ -1238,7 +1238,7 @@ entries:
     created: "2021-01-15T00:11:30.453346-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 0d24fc1805c045d86894e092454dbf2beffa3ad0ddadd10895f6db7821908715
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.000.tgz
@@ -1253,7 +1253,7 @@ entries:
     created: "2021-01-15T00:11:30.452862-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: c9b099c6e5e83ab677bc9c38eed6bdbe3f15611c261c2868c38aac24f3628c6f
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.0-rc300.tgz
@@ -1268,7 +1268,7 @@ entries:
     created: "2021-01-15T00:11:30.452386-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 88e1db58de806e970fc5ee7fbd55dd389ca31360a81a9591b38f551b62157b20
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.0-rc200.tgz
@@ -1283,7 +1283,7 @@ entries:
     created: "2021-01-15T00:11:30.451433-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: 0f037ac5744a26b7a382662121f934417f76484448e19f4d4b931f002df2b888
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.0-rc100.tgz
@@ -1298,7 +1298,7 @@ entries:
     created: "2021-01-15T00:11:30.45084-08:00"
     description: Fleet Manager CustomResourceDefinitions
     digest: a053cf9e74fb7f070c9f46127ae5f076c812dc5ae545449fe11212ae5426b85c
-    icon: https://charts.rancher.io/assets/logos/fleet.svg
+    icon: https://charts.hypper.io/assets/logos/fleet.svg
     name: fleet-crd
     urls:
     - released/assets/fleet-crd/fleet-crd-0.3.0-beta600.tgz
@@ -1648,7 +1648,7 @@ entries:
     description: Provides ability to back up and restore the Rancher application running
       on any Kubernetes cluster
     digest: 5fd539770144cff99063b15c0e7b07e7fa0d61b906f7f741976d1f9aff56bdfd
-    icon: https://charts.rancher.io/assets/logos/backup-restore.svg
+    icon: https://charts.hypper.io/assets/logos/backup-restore.svg
     keywords:
     - applications
     - infrastructure
@@ -1672,7 +1672,7 @@ entries:
     description: Provides ability to back up and restore the Rancher application running
       on any Kubernetes cluster
     digest: 7d6296d4c459042bb7f85543691ba807ae03cda6d42db22fcdafd01dbf49edea
-    icon: https://charts.rancher.io/assets/logos/backup-restore.svg
+    icon: https://charts.hypper.io/assets/logos/backup-restore.svg
     keywords:
     - applications
     - infrastructure
@@ -1696,7 +1696,7 @@ entries:
     description: Provides ability to back up and restore the Rancher application running
       on any Kubernetes cluster
     digest: 9f44f0901b03b9349242bc2b0e9cb6ec6b3e10f6583f605e3c3d8b87dc5f490c
-    icon: https://charts.rancher.io/assets/logos/backup-restore.svg
+    icon: https://charts.hypper.io/assets/logos/backup-restore.svg
     keywords:
     - applications
     - infrastructure
@@ -1720,7 +1720,7 @@ entries:
     description: Provides ability to back up and restore the Rancher application running
       on any Kubernetes cluster
     digest: 9fe775b7260bad706159af83c256b93662902bfef01cc071f3f3bb780d9e18bc
-    icon: https://charts.rancher.io/assets/logos/backup-restore.svg
+    icon: https://charts.hypper.io/assets/logos/backup-restore.svg
     keywords:
     - applications
     - infrastructure
@@ -1744,7 +1744,7 @@ entries:
     description: Provides ability to back up and restore the Rancher application running
       on any Kubernetes cluster
     digest: 931b45edda48b555f6c5c1179776787b615129f92026658100104e8f9a9012c5
-    icon: https://charts.rancher.io/assets/logos/backup-restore.svg
+    icon: https://charts.hypper.io/assets/logos/backup-restore.svg
     keywords:
     - applications
     - infrastructure
@@ -1767,7 +1767,7 @@ entries:
     description: Provides ability to back up and restore the Rancher application running
       on any Kubernetes cluster
     digest: 8c5375832bcb54fb3bc4d708ca22248e381bf1fcde8013a48a0b37d9a60e2375
-    icon: https://charts.rancher.io/assets/logos/backup-restore.svg
+    icon: https://charts.hypper.io/assets/logos/backup-restore.svg
     keywords:
     - applications
     - infrastructure
@@ -1877,7 +1877,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: e4e71c09635bf2c56580c7031ba3c0336e1b3376b34049db60e9ceb755a26dbd
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: https://charts.hypper.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -1899,7 +1899,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 5e389e57302f2f4ee674490e0ca7dcd4d78b2afd0f038d840dac974b77d66ede
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: https://charts.hypper.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -1921,7 +1921,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 6fec0634cd92f79fa192e7860fd99babb104e0350a9007a9923e8439b761ff08
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: https://charts.hypper.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -1943,7 +1943,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: af499c4fbd67e594057e97ac025011c52f0e02d6f7571532b7f5a2b19ed19035
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: https://charts.hypper.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -1965,7 +1965,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: b234bbf851d0c5bf1cb02e51ea647d95d53e9f2302b1e68518eadb694f345a1c
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: https://charts.hypper.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -1986,7 +1986,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 0d4ff5981f5ee48fca8a887ab0608888f85f97285175c46d7320c6987f167d4f
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: https://charts.hypper.io/assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2236,7 +2236,7 @@ entries:
       policy-based control for cloud native environments
     digest: 704bd0ff8114dd0786a67a16d3573d7d96b1abeab6d25a6741e5acaa439595c5
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2262,7 +2262,7 @@ entries:
       policy-based control for cloud native environments
     digest: f912c6f2f214dca2e07810c0ca88904c58909f392e10cdf8a9c43dcafaf4de46
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2288,7 +2288,7 @@ entries:
       policy-based control for cloud native environments
     digest: 9b6b061a749d2fd7d112753db206e27f472dda6d597fe7f5baea7bf37dcacec2
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2315,7 +2315,7 @@ entries:
       policy-based control for cloud native environments
     digest: f6da9f05a9bf5ffbe59780c578624db93979d6e3c4b3d69e90e5090007aec52d
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2342,7 +2342,7 @@ entries:
       policy-based control for cloud native environments
     digest: 42a1e00cad97b74471506ba628366e005657b71fa38808c438faf239b082bb38
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2368,7 +2368,7 @@ entries:
       policy-based control for cloud native environments
     digest: 8fdc03791c93b6d6f6d81edf27988c5a31c3c5bc113da8d8520ec534af087393
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2393,7 +2393,7 @@ entries:
       policy-based control for cloud native environments
     digest: 5c0c935a6935ce109015e1b86bb4f435c0fe1aad7ee2ad858e01bae57c3425c1
     home: https://github.com/open-policy-agent/gatekeeper
-    icon: https://charts.rancher.io/assets/logos/gatekeeper.svg
+    icon: https://charts.hypper.io/assets/logos/gatekeeper.svg
     keywords:
     - open policy agent
     - security
@@ -2531,7 +2531,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: fae8a77f05769320ce080c28656d5340be16b2fc1997702b444735623e8414c8
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -2563,7 +2563,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: e91424e345f8a654658f3f6a2f513aced8b3d65d86b4cda93fe5b4f7e3dbaabe
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -2597,7 +2597,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: a3a4d39833cb8065099654aac034c344f531c5b0b164a0d1c96bea541d72e5bf
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -2631,7 +2631,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: 3f32923202198fc41c607b179d194d4b579d790246e0959bf41b82a407bf1786
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -2660,7 +2660,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: 723e0ffa6ab03dde307bcb2848095b91f49d33eae05a4b29c26fe3e4066fc30c
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -2689,7 +2689,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: 2aa1870dabf3548c4ef52dde4515ca6b1478d75e052b8154555c43931829250b
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -2718,7 +2718,7 @@ entries:
     description: A basic Istio setup that installs with the istioctl. Refer to https://istio.io/latest/
       for details.
     digest: a6a23976155b1c3375406c00b49c354238aa6b837f3b19bbf360279cef59f9ef
-    icon: https://charts.rancher.io/assets/logos/istio.svg
+    icon: https://charts.hypper.io/assets/logos/istio.svg
     keywords:
     - networking
     - infrastructure
@@ -3066,7 +3066,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 3d9759eb846b9e8891bc40e1fc6b6fa9f6f998fc66f8a6736f0255f685cc64f8
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3090,7 +3090,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: d59d5206ab61e47dcf2ebf20dd72c5bb7dc01e21961aad70df7199a61b510998
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3114,7 +3114,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: e5b5de6aaea6c3a4f3fd60b6045beafdd3e3db3a72278410110faadb8c6e9fd5
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3138,7 +3138,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 7e1d1f0e60e7695db920d8960ae4f50f12b2763584c7ae03c5cbf27248490c24
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3162,7 +3162,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 90596ebd741c5bd712796d8dd07954663e76e41adad3c8f5177176414d355492
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3186,7 +3186,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 261ac9ff48b610df1c610904cb7ff999a619fdcb23620cf90c094adb0e0a1f2e
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3210,7 +3210,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 0e2f0b1f53b4e81488ffdd41bb68693e332bf7eaf29488b310f5b7368858c603
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3234,7 +3234,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 7f35d0af785c25d20003daf0d0b78a2e72e5b6a9f5e727757ee753c84260ba78
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3258,7 +3258,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 9654d484b60c1aa9f999791a83ddc5068ec69b0e3becd61b4198e243be7957af
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3282,7 +3282,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 460e6154256f66ea1e91d41a16195aa5c5c16123bf9b3895c2186a8ec69b80f5
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3306,7 +3306,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 8950865836a669a9190792174befffb50ed1bf9b41be2831d63624ff385cf0f7
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3330,7 +3330,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: a27ce10fdf883d5378255e99eddd7a7d5a3a9f6a9b00208ea182d27b98124932
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3354,7 +3354,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: c643abc8d8fa9a6e86de5aa7f31de1aa427cbc1dbe12854696126f264ab45c5f
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3378,7 +3378,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs. Powered
       by Banzai Cloud Logging Operator.
     digest: 825b35e6c8d6e5cb58cc27a83057dcf4b941c1cf9f1685ba8de9a581c50167b4
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3402,7 +3402,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs.  Powered
       by Banzai Cloud Logging Operator.
     digest: d759335422822364d842d5b3320eb5984df94ed0aad16e4d33e52c193fa82a7d
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -3425,7 +3425,7 @@ entries:
     description: Collects and filter logs using highly configurable CRDs.  Powered
       by Banzai Cloud Logging Operator.
     digest: 8b20ad589d1cf3e21b0235db0e93d6556aea4b94649a37f97544c65f55839ad2
-    icon: https://charts.rancher.io/assets/logos/logging.svg
+    icon: https://charts.hypper.io/assets/logos/logging.svg
     keywords:
     - logging
     - monitoring
@@ -6263,7 +6263,7 @@ entries:
     created: "2021-03-04T09:47:45.138966-08:00"
     description: vSphere Cloud Provider Interface (CPI)
     digest: 092bf7a60582eb190c1212699a9c277e01974d03e78e2121ecf8f6c460e36df7
-    icon: https://charts.rancher.io/assets/logos/vsphere-cpi.svg
+    icon: https://charts.hypper.io/assets/logos/vsphere-cpi.svg
     keywords:
     - infrastructure
     maintainers:
@@ -6287,7 +6287,7 @@ entries:
     created: "2021-03-04T09:47:45.139518-08:00"
     description: vSphere Cloud Storage Interface (CSI)
     digest: 99cee0399a41911b91f24ebecf94bb88ebdfbe3d82503add88afb5885ed4d1b9
-    icon: https://charts.rancher.io/assets/logos/vsphere-csi.svg
+    icon: https://charts.hypper.io/assets/logos/vsphere-csi.svg
     keywords:
     - infrastructure
     maintainers:
@@ -6478,7 +6478,7 @@ entries:
     description: The application deployment engine for Kubernetes
     digest: af6a84abcd481d2653db91960a69c9e235b619834cf81d0dfbd0f6c5427b7460
     home: https://rio.io
-    icon: https://charts.rancher.io/assets/logos/rio.svg
+    icon: https://charts.hypper.io/assets/logos/rio.svg
     name: rio
     urls:
     - released/assets/rio/rio-0.8.001-rc00.tgz
@@ -6498,7 +6498,7 @@ entries:
     description: The application deployment engine for Kubernetes
     digest: cec586f9ef5202b6030e1fbab082ef45c740ba749f4358f03ce3423acb310663
     home: https://rio.io
-    icon: https://charts.rancher.io/assets/logos/rio.svg
+    icon: https://charts.hypper.io/assets/logos/rio.svg
     name: rio
     urls:
     - released/assets/rio/rio-0.8.000.tgz
@@ -6515,7 +6515,7 @@ entries:
     created: "2021-03-03T21:20:36.729288-07:00"
     description: vSphere Cloud Provider Interface (CPI)
     digest: c989b10ab34b891887a3a1220921181aa3e357a1b1917ba2522848050fdab62a
-    icon: https://charts.rancher.io/assets/logos/vsphere-cpi.svg
+    icon: https://charts.hypper.io/assets/logos/vsphere-cpi.svg
     keywords:
     - infrastructure
     maintainers:
@@ -6538,7 +6538,7 @@ entries:
     created: "2021-03-03T21:20:31.221637-07:00"
     description: vSphere CPI driver
     digest: d78e5350401a9ae6ec67c160b4e7776eebda56a46756b0e6a38c9a2cc913c194
-    icon: https://charts.rancher.io/assets/logos/vsphere-cpi.svg
+    icon: https://charts.hypper.io/assets/logos/vsphere-cpi.svg
     keywords:
     - infrastructure
     maintainers:
@@ -6562,7 +6562,7 @@ entries:
     created: "2021-03-03T21:20:56.760876-07:00"
     description: vSphere Cloud Storage Interface (CSI)
     digest: 2a7e01ac4e05b4224c077c438e5e9a292840040659830ec7d8f9a07829c5b873
-    icon: https://charts.rancher.io/assets/logos/vsphere-csi.svg
+    icon: https://charts.hypper.io/assets/logos/vsphere-csi.svg
     keywords:
     - infrastructure
     maintainers:
@@ -6585,7 +6585,7 @@ entries:
     created: "2021-03-03T21:20:53.303412-07:00"
     description: vSphere CSI driver
     digest: 42dae1c284c3c79b3c168f01841d0337f0b9d2bf703167374a184341e7d2bd09
-    icon: https://charts.rancher.io/assets/logos/vsphere-csi.svg
+    icon: https://charts.hypper.io/assets/logos/vsphere-csi.svg
     keywords:
     - infrastructure
     maintainers:
