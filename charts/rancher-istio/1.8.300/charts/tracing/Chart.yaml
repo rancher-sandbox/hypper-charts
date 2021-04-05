@@ -1,0 +1,12 @@
+annotations:
+  catalog.cattle.io/hidden: "true"
+  catalog.cattle.io/os: linux
+  catalog.rancher.io/certified: rancher
+  hypper.cattle.io/namespace: istio-system
+  hypper.cattle.io/release-name: rancher-tracing
+apiVersion: v1
+appVersion: 1.20.0
+description: A quick start Jaeger Tracing installation using the all-in-one demo.
+  This is not production qualified. Refer to https://www.jaegertracing.io/ for details.
+name: tracing
+version: 1.20.0
