@@ -1,0 +1,22 @@
+---
+apiVersion: v2
+name: our-app
+description: An example Hypper chart for Kubernetes
+type: application
+sources:
+  - https://github.com/rancher-sandbox/hypper
+version: 0.0.2
+appVersion: 0.0.1
+annotations:
+  hypper.cattle.io/namespace: hypper
+  hypper.cattle.io/release-name: our-app-name
+  catalog.cattle.io/namespace: fleet-system
+  catalog.cattle.io/release-name: fleet
+  hypper.cattle.io/shared-dependencies: |
+    - name: fleet
+      version: "^0.3.500"
+      repository: "https://rancher-sandbox.github.io/hypper-charts/repo"
+  hypper.cattle.io/optional-dependencies: |
+    - name: rancher-tracing
+      version: "^1.20.002"
+      repository: "https://rancher-sandbox.github.io/hypper-charts/repo"
